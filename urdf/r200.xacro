@@ -98,13 +98,6 @@
          <mesh filename="package://turtlebot_description/meshes/sensors/r200.dae" />
         </geometry>
       </visual>
-      <collision>
-        <origin xyz="0.0 0.0 0.0" rpy="0 0 0"/>
-        <geometry>
-          <box size="0.130 0.567 0.118"/>
-        </geometry>
-      </collision>-->
-
       <!-- This inertial field needs doesn't contain reliable data!! -->
      <inertial>
         <mass value="0.564" />
