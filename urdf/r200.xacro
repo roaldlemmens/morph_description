@@ -7,9 +7,9 @@
 
 
   <!-- Mount and camera parameters -->
-  <xacro:property name="pole_px" value="0.08" />
+  <xacro:property name="pole_px" value="0.163" />
   <xacro:property name="pole_py" value="-0.10"/>
-  <xacro:property name="pole_pz" value="${0.08 + t_slot_width + t_slot_width}" />
+  <xacro:property name="pole_pz" value="0.215" />
 
   <xacro:property name="r200_bracket_end_offset_py" value="0.02" />
   <xacro:property name="r200_bracket_end_offset_pz" value="0" />
