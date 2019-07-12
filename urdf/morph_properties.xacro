@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://ros.org/wiki/xacro">
-	<xacro:property name="bottom_bar_length" value="0.13" /> <!-- total distance between two wheels including some space between the bar and the wheel -->
+	<xacro:property name="bottom_bar_length" value="0.415" /> <!-- total distance between two wheels including some space between the bar and the wheel -->
   <xacro:property name="top_bar_length" value="0.30" />
 	<xacro:property name="top_bar_offset" value="0.0" />
 	<xacro:property name="bar_width" value="0.06" />
