@@ -4,7 +4,7 @@
   <xacro:property name="top_bar_length" value="0.30" />
 	<xacro:property name="top_bar_offset" value="0.0" />
 	<xacro:property name="bar_width" value="0.06" />
-	<xacro:property name="wheel_radius" value="0.085625359" />
+	<xacro:property name="wheel_radius" value="0.083238035237061" />
 	<xacro:property name="wheel_width" value="0.045" /> <!-- total width of the wheel, including wheel surface area (actual tire) and hub portion that stands out-->
 	<xacro:property name="wheel_mass" value="5.0" />
 	<xacro:property name="caster_radius" value="0.0575" />
